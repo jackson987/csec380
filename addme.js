@@ -1,1 +1,1 @@
-asdf
+alert('myscript')
