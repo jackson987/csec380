@@ -1,1 +1,1 @@
-alert('myscript')
+alert('myscript');
